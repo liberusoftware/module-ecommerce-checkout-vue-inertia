@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-checkout-vue-inertia",
+  "capabilityKey": "planned:ecommerce:checkout",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-checkout-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/checkout.md",
+  "presentationPlan": "projects/ecommerce/vue/checkout.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
